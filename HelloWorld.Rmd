@@ -1,0 +1,14 @@
+---
+title: "HelloWorld"
+author: "Stefany Uguña"
+date: "12/9/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Este es un archivo de rebajas
+
+
